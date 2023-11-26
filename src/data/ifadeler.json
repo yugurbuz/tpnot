@@ -1,31 +1,318 @@
 [
-  { "id": 1, "content": "Merhaba, evet bire bir uyumludur." },
-  { "id": 2, "content": "Merhaba, maalesef uyumlu değildir." },
   {
-    "id": 3,
-    "content": "Merhaba, evet orjinal Samsung ürünüdür ve 2 yıl Samsung Türkiye garantilidir."
+    "id": "30ffaa89-6b0e-4417-9b7d-990c105578d7",
+    "content": "Merhaba, evet bire bir uyumludur.",
+    "creationDate": "2023-11-25T22:34:51.187Z",
+    "lastModified": "2023-11-26T16:46:46.120Z",
   },
   {
-    "id": 4,
-    "content": "Merhaba, evet orjinal Samsung ürünüdür ve 2 yıl Samsung Türkiye garantilidir. Mağazamızda satılan ürünlerin hepsi Samsung Türkiye garantili. 2 yıl boyunca tüm Samsung servisleri ve servis.samsungwa internet servisinden destek alabilirsiniz."
+    "id": "89c67eda-3d3a-456f-800a-092ffc9107cd",
+    "content": "Merhaba, maalesef uyumlu değildir.",
+    "creationDate": "2023-11-25T22:35:16.340Z",
+    "lastModified": "2023-11-26T16:46:48.768Z",
   },
   {
-    "id": 5,
-    "content": "Merhaba, ürün üzerinde Benzersiz Seri numara vardır ve bu seri numara üzerinden servisler kontrol edebilmektedir. Bu seri numarayı faturaya işlemekteyiz. Servis fatura ile birlikte ürünü istediği için bu şekilde doğrulma yapılmaktadır. Mağazamızda satılan ürünlerin hepsi Samsung Türkiye garantili. 2 yıl boyunca tüm Samsung servisleri ve servis.samsungwa internet servisinden destek alabilirsiniz."
+    "id": "fb980b7d-6e8c-48f2-9ec6-568232ef095f",
+    "content": "Merhaba, evet orjinal Samsung ürünüdür ve 2 yıl Samsung Türkiye garantilidir.",
+    "creationDate": "2023-11-26T07:46:44.114Z",
   },
   {
-    "id": 6,
-    "content": " Merhaba, https://www.samsung.com/tr/support/your- service/register-product adresinden üye girişi yapıp, ürün seri numarasını Doğrula satırına yazıp Doğrula butonuna basın. Eğer ürün orijinal ise sistem ürünün adını ve seri numarasını bulacaktır. Daha sonra onayla diyerek ürünü hesabınıza kaydedebilirsiniz."
+    "id": "da3ca2a1-d4ce-4722-b050-194d8764e591",
+    "content": "Merhaba, https://www.samsung.com/tr/support/your-service/register-product adresinden üye girişi yapıp, ürün seri numarasını Doğrula satırına yazıp Doğrula butonuna basın. Eğer ürün orijinal ise sistem ürünün adını ve seri numarasını bulacaktır. Daha sonra onayla diyerek ürünü hesabınıza kaydedebilirsiniz.",
+    "creationDate": "2023-11-26T12:22:42.786Z",
+    "lastModified": "2023-11-26T13:03:46.872Z",
   },
   {
-    "id": 7,
-    "content": "Merhaba, ürün orjinal Xiaomi ürün olduğu için paketi açıldıktan sonra tekrar maalesef satamıyoruz. Çünkü müşteriler içindeki ürün sıfır bile olsa paketi açılmış ürünleri almıyorlar. Bu ürünün detaylı incelemesi youtube'da var isterseniz oradan kontrol edebilirsiniz. Xiaomi'nin kullanım senaryosunda çekmeme gibi bir durum söz konusu değil. Modem ile hedef yer arasına kurulum yapıldığında verim alınabilir. Ama araya bir çok duvarın girmesi durumunda maalesef verim alınamayacaktır. Dolayısıyla iyice araştırıp ona göre"
+    "id": "ff88bb91-7362-48d7-bd10-fd6e6cbf7204",
+    "content": "Merhaba, ürün orjinal Samsung ürünüdür ve 2 yıl Samsung Türkiye garantilidir. Açılmamış sıfır kapalı kutusunda göndermekteyiz. Herhangi bir problem olduğu anda tüm Samsung servislerine ürünü ücretsiz gönderebilirsiniz. Kutu açıldıktan sonra direk iade maalesef alamıyoruz.",
+    "creationDate": "2023-11-26T12:22:46.188Z",
+    "lastModified": "2023-11-26T13:03:41.107Z",
   },
   {
-    "id": 8,
-    "content": "Merhaba, ürün orjinal Xiaomi ürün olduğu için paketi açıldıktan sonra tekrar maalesef satamıyoruz. Çünkü müşteriler içindeki ürün sıfır bile olsa paketi açılmış ürünleri almıyorlar. Bu ürünün detaylı incelemesi youtube'da var isterseniz oradan kontrol edebilirsiniz. Xiaomi'nin kullanım senaryosunda çekmeme gibi bir durum söz konusu değil. Modem ile hedef yer arasına kurulum yapıldığında verim alınabilir. Ama araya bir çok duvarın girmesi durumunda maalesef verim alınamayacaktır. Dolayısıyla iyice araştırıp ona göre"
-  }, {
-    "id": 9,
-    "content": "9Merhaba, ürün orjinal Xiaomi ürün olduğu için paketi açıldıktan sonra tekrar maalesef satamıyoruz. Çünkü müşteriler içindeki ürün sıfır bile olsa paketi açılmış ürünleri almıyorlar. Bu ürünün detaylı incelemesi youtube'da var isterseniz oradan kontrol edebilirsiniz. Xiaomi'nin kullanım senaryosunda çekmeme gibi bir durum söz konusu değil. Modem ile hedef yer arasına kurulum yapıldığında verim alınabilir. Ama araya bir çok duvarın girmesi durumunda maalesef verim alınamayacaktır. Dolayısıyla iyice araştırıp ona göre"
-  }
-]
+    "id": "3c2becac-83d2-45dd-95d5-c96dad04ca43",
+    "content": "Merhaba, bu cihaz bluetooth mesafesine (açık ve kapalı alanlarda mesafe değişmekte) yaklaşan Samsung cihazlara bağlanarak konum göndermektedir. Bu mantıkla dünyanın öbür ucunda yakınından bir Samsung cihaz (Telefon Tablet vb.) olursa konum gönderebilir. Ama yakınında Samsung Cihaz olmazsa (ormanlık alan, dağ vb.) 200 metre yanınızda bile olsa konum gönderemez. Pasif bir cihazdır anlık konum söz konusu değildir. Yaklaşık konum bilgisi sağlar.",
+    "creationDate": "2023-11-26T12:23:16.034Z",
+    "lastModified": "2023-11-26T13:03:35.489Z",
+  },
+  {
+    "id": "0e778e22-d060-4610-a6cb-cc532e288280",
+    "content": "Merhaba öncelikle yaşanan aksaklıktan dolayı kusura bakmayın. PTT kargo ile görüştük hızlı teslimat yapılması için ilgili şubeye bildirimde bulunacaklar.",
+    "creationDate": "2023-11-26T12:23:26.636Z",
+    "lastModified": "2023-11-26T13:03:22.038Z",
+  },
+  {
+    "id": "c202ca36-fc35-4356-86ec-69ac6a12c474",
+    "content": "Merhaba, öncelikle yaşanan aksaklıktan dolayı kusura bakmayın, durumu PTT kargoya ilettim. Yeniden teslimat yapılması için talepte bulunacaklar. Saygılarımla.",
+    "creationDate": "2023-11-26T12:23:32.053Z",
+    "lastModified": "2023-11-26T13:03:27.505Z",
+  },
+  {
+    "id": "5ab14654-7a53-4902-94e3-f3aca219fd9d",
+    "content": "Merhaba, PTT kargo ile Haftaiçi 16:00'a kadar Cumartesi 12:00 ye kadar olan tüm siparişler aynı gün gönderim sağlamaktayız.",
+    "creationDate": "2023-11-26T12:23:42.711Z",
+    "lastModified": "2023-11-26T13:01:58.365Z",
+  },
+  {
+    "id": "ab6de724-82a4-4571-b70e-17de35a7389f",
+    "content": "Merhaba, ürün üzerinde Benzersiz Seri numara vardır ve bu seri numara üzerinden servisler kontrol edebilmektedir. Bu seri numarayı faturaya işlemekteyiz. Servis fatura ile birlikte ürünü istediği için bu şekilde doğrulma yapılmaktadır. Mağazamızda satılan ürünlerin hepsi Samsung Türkiye garantili. 2 yıl boyunca tüm Samsung servisleri ve servis.samsungwa internet servisinden destek alabilirsiniz.",
+    "creationDate": "2023-11-26T12:23:51.059Z",
+    "lastModified": "2023-11-26T13:02:20.241Z",
+  },
+  {
+    "id": "e754ff1c-4965-4726-afb4-0ff0a6614931",
+    "content": "Merhaba, ürün orjinal Xiaomi ürün olduğu için paketi açıldıktan sonra tekrar maalesef satamıyoruz. Çünkü müşteriler içindeki ürün sıfır bile olsa paketi açılmış ürünleri almıyorlar. Bu ürünün detaylı incelemesi youtube'da var isterseniz oradan kontrol edebilirsiniz. Xiaomi'nin kullanım senaryosunda çekmeme gibi bir durum söz konusu değil. Modem ile hedef yer arasına kurulum yapıldığında verim alınabilir. Ama araya bir çok duvarın girmesi durumunda maalesef verim alınamayacaktır. Dolayısıyla iyice araştırıp ona göre almanızı tavsiye ederiz. Saygılarımla.",
+    "creationDate": "2023-11-26T12:24:05.990Z",
+    "lastModified": "2023-11-26T13:02:29.705Z",
+  },
+  {
+    "id": "9b688d79-ba95-44c1-a1c3-9f6ab4ae2fbe",
+    "content": "Merhaba, evet orjinal Samsung ürünüdür ve 2 yıl Samsung Türkiye garantilidir. Mağazamızda satılan ürünlerin hepsi Samsung Türkiye garantili. 2 yıl boyunca tüm Samsung servisleri ve servis.samsungwa internet servisinden destek alabilirsiniz.",
+    "creationDate": "2023-11-26T12:24:23.107Z",
+    "lastModified": "2023-11-26T13:02:35.228Z",
+  },
+  {
+    "id": "79e793f6-464f-452d-b589-ca118cc02c34",
+    "content": "Merhaba, Smarttag sipariş teyidi için ulaşım sağlıyorum. Bazen gözden kaçabiliyor ve uyumlu olmayan cihazlar için alım sağlanabiliyor. Bu cihaz Android 8 ve üstü kullanan tüm Samsung Galaxy akıllı telefon ve tabletler ile uyumludur. Diğer marka (Xiaomi vb) Android cihazlar ve Apple cihazlar ile uyumlu değildir. Cihazınızın uyumlu olup olmadığından emin değilseniz bize Ayarlar / Cihaz Hakkında kısmından SM ile başlayan model numarasını iletirseniz size daha iyi yardımcı olabiliriz. Saygılarımla.",
+    "creationDate": "2023-11-26T16:40:06.917Z",
+    "lastModified": "2023-11-26T16:40:21.996Z"
+  },
+  {
+    "id": "a0348575-357a-4ab2-becf-f72f7dc6952e",
+    "content": "Merhaba, satın almış olduğunuz Samsung TA20 Şarj cihazı sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Type-C kablolu versiyon ile Micro USB kablolu versiyon karıştırılabiliyor. Almış olduğunuz model Micro USB kablolu modeldir. Cihazınız ile uyumlu olup olmadığını kontrol edebilmemiz için Cihaz modelini veya Cihaz Model numarasını bize iletebilirseniz kontrol ederek uyumlu modeli gönderebiliriz. Cihaz model numarasına, Ayarlar / Cihaz hakkında kısmından, bakabilirsiniz. Saygılarımla",
+    "creationDate": "2023-11-26T16:40:28.971Z",
+    "lastModified": "2023-11-26T16:40:29.599Z"
+  },
+  {
+    "id": "3135426e-f121-4369-bcb4-1334b47b600f",
+    "content": "Merhaba, satın almış olduğunuz Samsung TA20 Şarj cihazı sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Type-C kablolu versiyon ile Micro USB kablolu versiyon karıştırılabiliyor. Almış olduğunuz model Type-C kablolu modeldir. Cihazınız ile uyumlu olup olmadığını kontrol edebilmemiz için Cihaz modelini veya Cihaz Model numarasını bize iletebilirseniz kontrol ederek uyumlu modeli gönderebiliriz. Cihaz model numarasına, Ayarlar / Cihaz hakkında kısmından, bakabilirsiniz. Saygılarımla",
+    "creationDate": "2023-11-26T16:40:31.102Z",
+    "lastModified": "2023-11-26T16:40:37.660Z"
+  },
+  {
+    "id": "626a3f07-0535-4843-a6f6-b6f23d0d04db",
+    "content": "Merhaba, satın almış olduğunuz Apple USB-C kablo sipariş teyidi için size ulaşım sağlıyorum Bazen gözden kaçabiliyor ve bu kablo iPhone için alınabiliyor. Bu kablo USB-C’den şarj olan iPad, Mocbook’lar  ve iPhone 15 ile uyumludur, Lightning’den şarj olan iPhone’lar ile uyumlu değildir. Bize kullanmak istediğiniz cihazın modelini iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla.",
+    "creationDate": "2023-11-26T16:40:38.671Z",
+    "lastModified": "2023-11-26T16:40:48.648Z"
+  },
+  {
+    "id": "8d3a8417-e4e3-46a4-86e0-b09c93e1fc00",
+    "content": "Merhaba, satın almış olduğunuz Apple USB-C to 3.5mm kulaklık dönüştürücü sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve bu dönüştürücü iPhone için alınabiliyor. Bu dönüştürücü USB-C’den şarj olan iPad, Mocbook’lar ve iPhone 15 ile uyumludur, Lightning’den şarj olan iPhone’lar ile uyumlu değildir. Her iki modelde elimizde mevcuttur. Bize kullanmak istediğiniz cihazın modelini iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla. ",
+    "creationDate": "2023-11-26T16:40:55.005Z",
+    "lastModified": "2023-11-26T16:40:56.792Z"
+  },
+  {
+    "id": "78ec496c-6c62-47d9-a8c8-510ac607d972",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Grand Prime Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor Grand Prime ile Grand Prime+ Plus modelleri karıştırılabiliyor. Telefonunuz Grand Prime mı yoksa Grand Prime+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G ... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:05.914Z",
+    "lastModified": "2023-11-26T16:41:06.273Z"
+  },
+  {
+    "id": "723a564e-5636-4504-84ba-79b55f2662f2",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab S5E Tablet Kılıf sipariş teyidi için ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Tablet modelleri karıştırılabiliyor. Satın almış olduğunuz Klavyeli Kılıf Sadece Tab S5E tablet ile uyumludur başka modellerle uyumlu değildir. Tabletinizin modelinden emin değilseniz, tabletin Ayarlar / Tablet hakkında kısmından, SM-T… ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Not: Satın aldığınız ürün sadece klavyeli kılıftır, içerisinde tablet yoktur tablet ayrıca satılmaktadır.",
+    "creationDate": "2023-11-26T16:41:08.626Z",
+    "lastModified": "2023-11-26T16:41:14.753Z"
+  },
+  {
+    "id": "bc0ba95d-46fa-47f1-8676-6421cd78f46f",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Note 3 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Galaxy Note 3 (N9000) ile Galaxy Note 3 Neo (N7500) karıştırılabiliyor. Telefonunuz Düz Note 3 mu yoksa Note 3 Neo mu? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-N... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:15.754Z",
+    "lastModified": "2023-11-26T16:41:21.143Z"
+  },
+  {
+    "id": "cef39bc8-975f-46d0-bc0b-f2464e8a9670",
+    "content": "Merhaba, satın almış olduğunuz Galaxy A3 Kılıf sipariş teyidi için size ulaşım sağlıyorum. Bazen gözden kaçabiliyor ve A3 2015, A3 2016 ile A3 2017 modelleri karıştırılabiliyor. Telefon modeli A3 2015 mi, A3 2016 mı yoksa A3 2017 midir? Eğer modelini tam olarak bilmiyorsanız telefonun, Ayarlar / Telefon hakkında kısmından, SM-A.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:21.982Z",
+    "lastModified": "2023-11-26T16:41:27.015Z"
+  },
+  {
+    "id": "77591245-845e-4bbc-a13f-98e1144318ca",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab 3 7.0 inç Kılıf sipariş teyidi için size ulaşım sağlıyorum. Bazen gözden kaçabiliyor ve Tab 3   7.0 inç (SM-T210) ile Tab 3   10.1 inç karıştırılabiliyor. Tabletiniz Tab 3 7.0 inç (SM-T210) mi yoksa Tab 3 10.1 inç mi? Eğer emin değilseniz tabletin Ayarlar / Tablet hakkında kısmından, SM-T... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:27.833Z",
+    "lastModified": "2023-11-26T16:41:32.793Z"
+  },
+  {
+    "id": "bd873927-0a36-4723-a3a8-1fb99683c6c2",
+    "content": "Merhaba, satın almış olduğunuz iPad Kapaklı kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve diğer iPad modelleri için satın alınabiliyor. Bu kılıf iPad Air 1. Nesil, iPad 5. Nesil ve iPad 6. Nesil ile uyumludur. Tabletiniz bunlardan biri mi? Eğer emin değilseniz tabletinizin Ayarlar / Genel / Hakkında kısmında A ... ile veya M… ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:33.848Z",
+    "lastModified": "2023-11-26T16:41:39.876Z"
+  },
+  {
+    "id": "82e954cd-e5ed-442d-96b1-a88b2f6f4c97",
+    "content": "Merhaba, satın almış olduğunuz Galaxy J4 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Galaxy J4 ile J4+ Plus karıştırılabiliyor. Telefonunuz Düz J4 mü yoksa J4+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-J... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:40.422Z",
+    "lastModified": "2023-11-26T16:41:44.532Z"
+  },
+  {
+    "id": "70f366de-5666-4304-af6b-9db75d6f649e",
+    "content": "Merhaba, satın almış olduğunuz Galaxy J5 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve J5 2015, J5 2016 ile J5 2017 modelleri karıştırılabiliyor. Telefon modeli J5 2015 mi, J5 2016 mı yoksa J5 2017 mi? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-J.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:45.227Z",
+    "lastModified": "2023-11-26T16:41:51.251Z"
+  },
+  {
+    "id": "9d9c02be-845f-4a16-8322-1f5cfd7d1422",
+    "content": "Merhaba, satın almış olduğunuz Galaxy A5 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve A5 2015, A5 2016 ile A5 2017 modelleri karıştırılabiliyor. Telefon modeli A5 2015 mi, A5 2016 mı yoksa A5 2017 mi? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-A.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabilirim. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:51.882Z",
+    "lastModified": "2023-11-26T16:41:56.590Z"
+  },
+  {
+    "id": "53d1f6be-b609-4146-8923-9788281d6003",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab A6 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Tab A6 7.0 inç (SM-T280 ve SM-T287) ile Tab A6 10.1 inç (SM-T580) karıştırılabiliyor. Tabletiniz Tab A6 7.0 inç mi yoksa Tab A6 10.1 inç (SM-T580) mi? Eğer emin değilseniz tabletin Ayarlar / Tablet hakkında kısmından, SM-T... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:41:57.273Z",
+    "lastModified": "2023-11-26T16:42:03.019Z"
+  },
+  {
+    "id": "eca94377-0f4f-4396-8c61-30ce622fa588",
+    "content": "Merhaba, satın almış olduğunuz Ozaki iPhone 6/6s Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve iPhone 6/6s ile iPhone 6 Plus karıştırılabiliyor. Telefonunuz iPhone 6/6s mi yoksa iPhone 6 Plus mı? Eğer emin değilseniz telefonun Ayarlar / Genel / Hakkında kısmından, A… ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:42:03.748Z",
+    "lastModified": "2023-11-26T16:42:08.146Z"
+  },
+  {
+    "id": "e82ad829-4748-4189-9987-aadb94c179bc",
+    "content": "Merhaba, satın almış olduğunuz Galaxy J6 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve J6 ile J6+ Plus karıştırılabiliyor. Telefonunuz Düz J6 mı yoksa J6+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-J ... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:42:09.052Z",
+    "lastModified": "2023-11-26T16:42:14.028Z"
+  },
+  {
+    "id": "6ad3d8f3-e812-4c17-b9e4-d7cb8a4e1265",
+    "content": "Merhaba, satın almış olduğunuz Galaxy S6 Kılıf sipariş teyidi için size ulaşım sağlıyorum. Bazen gözden kaçabiliyor ve S6, S6 EDGE ve S6 EDGE+ Plus karıştırılabiliyor. Telefonunuz Düz S6 mı, S6 EDGE mi yoksa S6 EDGE+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G ... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:42:15.135Z",
+    "lastModified": "2023-11-26T16:42:19.466Z"
+  },
+  {
+    "id": "4da7e58d-cd7d-40fc-8608-9efb91b922c3",
+    "content": "Merhaba, satın almış olduğunuz Galaxy A6 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve A6 ile A6+ Plus karıştırılabiliyor. Telefonunuz Düz A6 mı yoksa A6+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-A.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla  ",
+    "creationDate": "2023-11-26T16:42:20.160Z",
+    "lastModified": "2023-11-26T16:42:24.719Z"
+  },
+  {
+    "id": "df56e889-b619-4c85-a320-c6cb0504f30d",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab S7 Klavyeli Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Tab S7 ile Tab S7+ Plus karıştırılabiliyor. Tabletiniz Düz S7 mi yoksa S7 Plus mı? Eğer emin değilseniz tabletin Ayarlar / Tablet hakkında kısmından, SM-T... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Not1: Tab S7+ Plus ile S7 FE aynı boyuttadır ve aynı kılıfları kullanmaktadır. Not2: Bu ürün sadece Klavyeli kılıftır, tablet değildir. Tablet ayrıca satılmaktadır. Saygılarımla",
+    "creationDate": "2023-11-26T16:42:26.826Z",
+    "lastModified": "2023-11-26T16:42:41.241Z"
+  },
+  {
+    "id": "5d5ed2fa-1910-4d34-a446-6c15ad19a6ce",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab S7 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Tab S7 ile Tab S7+ Plus karıştırılabiliyor. Tabletiniz Düz S7 mi yoksa S7 Plus mı? Eğer emin değilseniz tabletin Ayarlar / Tablet hakkında kısmından, SM-T... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Not1: Tab S7+ Plus ile S7 FE aynı boyuttadır ve aynı kılıfları kullanmaktadır. Not2: Bu ürün sadece kılıftır, tablet değildir. Tablet ayrıca satılmaktadır. Saygılarımla",
+    "creationDate": "2023-11-26T16:42:32.156Z",
+    "lastModified": "2023-11-26T16:42:32.739Z"
+  },
+  {
+    "id": "fb5358c2-9f9d-4ddf-961d-2b5edfc0db15",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab S8 Klavyeli Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Tab S8, Tab S8+ Plus ve Tab S8 Ultra karıştırılabiliyor. Tabletiniz Düz S8 mi, S8 Plus mı yoksa S8 Ultra mı? Eğer emin değilseniz tabletin Ayarlar / Tablet hakkında kısmından, SM-X... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla Not : Bu ürün sadece Klavyeli kılıftır, tablet değildir. Tablet ayrıca satılmaktadır.",
+    "creationDate": "2023-11-26T16:42:33.375Z",
+    "lastModified": "2023-11-26T16:42:55.232Z"
+  },
+  {
+    "id": "b5a9b746-72ef-42f9-9282-4686af5d9880",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab S8 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Tab S8, Tab S8+ Plus ve Tab S8 Ultra karıştırılabiliyor. Tabletiniz Düz S8 mi, S8 Plus mı yoksa S8 Ultra mı? Eğer emin değilseniz tabletin Ayarlar / Tablet hakkında kısmından, SM-X... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla Not : Bu ürün sadece kılıftır, tablet değildir. Tablet ayrıca satılmaktadır.",
+    "creationDate": "2023-11-26T16:42:42.355Z",
+    "lastModified": "2023-11-26T16:42:49.003Z"
+  },
+  {
+    "id": "0d96af35-4efb-49e3-8548-d8af4222a4c7",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab S9 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Tab S9, Tab S9+ Plus ve Tab S9 Ultra karıştırılabiliyor. Tabletiniz Düz S9 mi, S9 Plus mı yoksa S9 Ultra mı? Eğer emin değilseniz tabletin Ayarlar / Tablet hakkında kısmından, SM-X... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Not1: Tab S9 ile S9 FE ve Tab S9 Plus ile Tab S9 FE Plus aynı boyuttadır ve aynı kılıfları kullanmaktadır. Not2 : Bu ürün sadece kılıftır, tablet değildir. Tablet ayrıca satılmaktadır. Saygılarımla",
+    "creationDate": "2023-11-26T16:42:57.518Z",
+    "lastModified": "2023-11-26T16:43:04.185Z"
+  },
+  {
+    "id": "866e6e0a-59d4-408b-8000-31c3244f1ab1",
+    "content": "Merhaba, satın almış olduğunuz Galaxy Tab S9 Klavyeli Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Tab S9, Tab S9+ Plus ve Tab S9 Ultra karıştırılabiliyor. Tabletiniz Düz S9 mi, S9 Plus mı yoksa S9 Ultra mı? Eğer emin değilseniz tabletin Ayarlar / Tablet hakkında kısmından, SM-X... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Not1: Tab S9 ile S9 FE ve Tab S9 Plus ile Tab S9 FE Plus aynı boyuttadır ve aynı kılıfları kullanmaktadır. Not2 : Bu ürün sadece Klavyeli kılıftır, tablet değildir. Tablet ayrıca satılmaktadır. Saygılarımla",
+    "creationDate": "2023-11-26T16:43:05.017Z",
+    "lastModified": "2023-11-26T16:43:11.691Z"
+  },
+  {
+    "id": "33c2980c-4d06-4497-819f-7341804db0eb",
+    "content": "Merhaba satın almış olduğunuz Galaxy S7 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Galaxy S7 ile S7 EDGE karıştırılabiliyor. Telefonunuz Düz S7 mi yoksa S7 EDGE mi? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:43:18.092Z",
+    "lastModified": "2023-11-26T16:43:19.592Z"
+  },
+  {
+    "id": "6053a0bb-638c-422e-88d1-7e1783e11ce2",
+    "content": "Merhaba satın almış olduğunuz Galaxy A7 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve A7 2015, A7 2016 ile A7 2017 modelleri karıştırılabiliyor. Telefon modeli A7 2015 mi, A7 2016 mi yoksa A7 2017 mi? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-A.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:43:20.418Z",
+    "lastModified": "2023-11-26T16:43:24.972Z"
+  },
+  {
+    "id": "3c797fc2-2f11-49c4-99d7-3fe7758c6403",
+    "content": "Merhaba satın almış olduğunuz Galaxy J7 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve J7 2015, J7 2016 ile J7 2017 modelleri karıştırılabiliyor. Telefon modeli J7 2015 mi, J7 2016 mi yoksa J7 2017 mi? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-J.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:43:25.775Z",
+    "lastModified": "2023-11-26T16:43:31.412Z"
+  },
+  {
+    "id": "b24ba034-7604-4513-aa4f-fe0492c5c076",
+    "content": "Merhaba satın almış olduğunuz Galaxy S8 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve S8 ile S8+ Plus modelleri karıştırılabiliyor. Telefonunuz Düz S8 mi yoksa S8+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:43:32.446Z",
+    "lastModified": "2023-11-26T16:43:38.116Z"
+  },
+  {
+    "id": "41418c63-d0ef-451d-b8b3-9519000a48fc",
+    "content": "Merhaba satın almış olduğunuz Galaxy A8 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve A8 ile A8+ karıştırılabiliyor. Telefonunuz Düz A8 mi yoksa A8+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-A... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabilirim. Saygılarımla",
+    "creationDate": "2023-11-26T16:43:38.796Z",
+    "lastModified": "2023-11-26T16:43:43.182Z"
+  },
+  {
+    "id": "88b74926-98f3-4eb4-ad87-4c1320c20bda",
+    "content": "Merhaba satın almış olduğunuz Galaxy S9 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Galaxy S9 ile S9+ Plus modelleri karıştırılabiliyor. Telefonunuz Düz S9 mu yoksa S9+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabilirim. Saygılarımla",
+    "creationDate": "2023-11-26T16:43:43.881Z",
+    "lastModified": "2023-11-26T16:43:49.698Z"
+  },
+  {
+    "id": "ca43906a-d670-4d07-9633-c15c250f228c",
+    "content": "Merhaba satın almış olduğunuz Galaxy Tab 10.1 Dock sipariş teyidi için size ulaşım sağlıyoruz. Bu Dock şarj girişi 30 pin olan Samsung Tabletler ile uyumludur. Bazen gözden kaçabiliyor, Micro USB ve Type-C girişli tabletler içinde alınabiliyor. Tabletin girişinden emin değilseniz Ayarlar / Tablet hakkında kısmından, SM-T.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:43:50.242Z",
+    "lastModified": "2023-11-26T16:43:55.089Z"
+  },
+  {
+    "id": "f88c5b49-dd71-42dd-befd-4df872c4218c",
+    "content": "Merhaba satın almış olduğunuz Galaxy Note 10 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Note 10 ile Note 10+ Plus karıştırılabiliyor. Telefonunuz Düz Note 10 (SM-N970) mı yoksa Note 10+ Plus (SM-N975) mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-N... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:44:03.101Z",
+    "lastModified": "2023-11-26T16:44:03.892Z"
+  },
+  {
+    "id": "cf6e6486-f3f0-4de6-b645-3443080523ab",
+    "content": "Merhaba satın almış olduğunuz Samsung Galaxy S21 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor Galaxy S21, S21+ Plus ve S21 Ultra modelleri karıştırılabiliyor. Telefonunuz Galaxy S21 mi, S21+ Plus mı yoksa S21 Ultra mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:44:04.709Z",
+    "lastModified": "2023-11-26T16:44:38.109Z"
+  },
+  {
+    "id": "0b4750f4-5701-4b68-8415-a04c4c9f5d47",
+    "content": "Merhaba satın almış olduğunuz Galaxy S10 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Galaxy S10, S10e ve S10+ Plus modelleri karıştırılabiliyor. Telefonunuz Düz S10 mu S10e mi yoksa S10+ Plus mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:44:12.311Z",
+    "lastModified": "2023-11-26T16:44:12.975Z"
+  },
+  {
+    "id": "e1dfe643-6fc7-4c9e-8e24-3ab5b87d85f5",
+    "content": "Merhaba satın almış olduğunuz Galaxy S10 Lite Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve S10 Lite ile Note 10 Lite modelleri karıştırılabiliyor. Telefon modeli S10 Lite mı yoksa Note 10 Lite mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G.... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabilirim. Saygılarımla",
+    "creationDate": "2023-11-26T16:44:13.903Z",
+    "lastModified": "2023-11-26T16:44:18.582Z"
+  },
+  {
+    "id": "1c3db6f8-86ef-4a11-a177-11869c862ba4",
+    "content": "Merhaba satın almış olduğunuz Galaxy Note20 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Note20 ile Note20 Ultra modelleri karıştırılabiliyor. Telefonunuz düz Note20 mi yoksa Note20 Ultra mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-N ... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:44:19.200Z",
+    "lastModified": "2023-11-26T16:44:24.373Z"
+  },
+  {
+    "id": "f612a08a-81d7-4627-b1a1-59a71c34e0f2",
+    "content": "Merhaba satın almış olduğunuz Galaxy S20 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve Galaxy S20, S20+ Plus ve S20 FE modelleri karıştırılabiliyor. Telefonunuz Düz S20 mi, S20+ Plus mı yoksa S20 FE mi? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-G ... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:44:25.384Z",
+    "lastModified": "2023-11-26T16:44:31.798Z"
+  },
+  {
+    "id": "0a73a28a-010e-4082-87dc-4c6f3efa8656",
+    "content": "Merhaba, satın almış olduğunuz Galaxy S21 Ultra S-Pen sipariş teyidi için ulaşım sağlıyoruz. Bazen gözden kaçabiliyor ve S21 Ultra için olan bu kalem başka telefon ve tabletler için alınabiliyor. Bu kalem sadece S21 Ultra telefon ile uyumludur. Başka modellere kesinlikle uyum sağlamaz. Telefon veya Tablet modeliniz faklı ise belirtirseniz elimizde uyumlu model varsa yardımcı olabiliriz. Ayarlar / Telefon hakkında kısmından, SM-... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla ",
+    "creationDate": "2023-11-26T16:44:40.503Z",
+    "lastModified": "2023-11-26T16:44:46.574Z"
+  },
+  {
+    "id": "5c761ab5-b17e-4466-9683-dc2ddf914358",
+    "content": "Merhaba satın almış olduğunuz Samsung Galaxy S22 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor Galaxy S22, S22+ Plus ve S22 Ultra modelleri karıştırılabiliyor. Telefonunuz Galaxy S22 mi, S22+ Plus mı yoksa S22 Ultra mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-S... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:44:47.356Z",
+    "lastModified": "2023-11-26T16:44:51.778Z"
+  },
+  {
+    "id": "48f21c48-87aa-45d8-b242-0ea93b3f277b",
+    "content": "Merhaba satın almış olduğunuz Samsung Galaxy S23 Kılıf sipariş teyidi için size ulaşım sağlıyoruz. Bazen gözden kaçabiliyor Galaxy S23, S23+ Plus ve S23 Ultra modelleri karıştırılabiliyor. Telefonunuz Galaxy S23 mi, S23+ Plus mı yoksa S23 Ultra mı? Eğer emin değilseniz telefonun Ayarlar / Telefon hakkında kısmından, SM-S... ile başlayan model numarasını iletebilirseniz size daha iyi yardımcı olabiliriz. Saygılarımla",
+    "creationDate": "2023-11-26T16:44:52.158Z",
+    "lastModified": "2023-11-26T16:44:55.950Z"}
+  ]
