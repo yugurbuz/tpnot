@@ -1,0 +1,2 @@
+# tpnot
+ Hazır İfadeler
