@@ -1,0 +1,24 @@
+[
+  { "id": 1, "content": "Merhaba, evet bire bir uyumludur." },
+  { "id": 2, "content": "Merhaba, maalesef uyumlu değildir." },
+  {
+    "id": 3,
+    "content": "Merhaba, evet orjinal Samsung ürünüdür ve 2 yıl Samsung Türkiye garantilidir."
+  },
+  {
+    "id": 4,
+    "content": "Merhaba, evet orjinal Samsung ürünüdür ve 2 yıl Samsung Türkiye garantilidir. Mağazamızda satılan ürünlerin hepsi Samsung Türkiye garantili. 2 yıl boyunca tüm Samsung servisleri ve servis.samsungwa internet servisinden destek alabilirsiniz."
+  },
+  {
+    "id": 5,
+    "content": "Merhaba, ürün üzerinde Benzersiz Seri numara vardır ve bu seri numara üzerinden servisler kontrol edebilmektedir. Bu seri numarayı faturaya işlemekteyiz. Servis fatura ile birlikte ürünü istediği için bu şekilde doğrulma yapılmaktadır. Mağazamızda satılan ürünlerin hepsi Samsung Türkiye garantili. 2 yıl boyunca tüm Samsung servisleri ve servis.samsungwa internet servisinden destek alabilirsiniz."
+  },
+  {
+    "id": 6,
+    "content": " Merhaba, https://www.samsung.com/tr/support/your- service/register-product adresinden üye girişi yapıp, ürün seri numarasını Doğrula satırına yazıp Doğrula butonuna basın. Eğer ürün orijinal ise sistem ürünün adını ve seri numarasını bulacaktır. Daha sonra onayla diyerek ürünü hesabınıza kaydedebilirsiniz."
+  },
+  {
+    "id": 7,
+    "content": "Merhaba, ürün orjinal Xiaomi ürün olduğu için paketi açıldıktan sonra tekrar maalesef satamıyoruz. Çünkü müşteriler içindeki ürün sıfır bile olsa paketi açılmış ürünleri almıyorlar. Bu ürünün detaylı incelemesi youtube'da var isterseniz oradan kontrol edebilirsiniz. Xiaomi'nin kullanım senaryosunda çekmeme gibi bir durum söz konusu değil. Modem ile hedef yer arasına kurulum yapıldığında verim alınabilir. Ama araya bir çok duvarın girmesi durumunda maalesef verim alınamayacaktır. Dolayısıyla iyice araştırıp ona göre"
+  }
+]
